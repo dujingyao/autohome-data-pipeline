@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e1060a12-a8f9-4ee1-9351-2ec7b9190cb0" name="更改" comment="爬虫代码">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据爬取.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据爬取.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/河南二手车详细数据.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,21 +24,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "dujingyao"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dujingyao&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/dujingyao/-.git",
-    "accountId": "dbe33cc7-4406-4f2a-9e61-2f0600ab3441"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/dujingyao/-.git&quot;,
+    &quot;accountId&quot;: &quot;dbe33cc7-4406-4f2a-9e61-2f0600ab3441&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2yU3bxW9uIWtXUGWtRHtZqUJ2EN" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -51,13 +53,19 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.数据爬取.executor": "Run",
     "Python.数据爬取_新.executor": "Run",
+    "Python.数据爬取新.executor": "Run",
+    "Python.数据预处理.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "E:/汽车之家爬取"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\汽车之家爬取" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\汽车之家爬取" />
     </key>
