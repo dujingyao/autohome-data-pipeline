@@ -1,20 +1,18 @@
-# CSV 数据文件
-*.csv
-
-# IDEA 配置文件
-.idea/
-*.iml
-*.iws
-*.ipr
-
-# 其他常见的临时文件
+# Python 缓存
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-.Python
-*.so
-.env
-.venv
-env/
+
+# 虚拟环境
 venv/
+.venv/
+env/
+.env
+
+# IDE 配置文件
+.idea/
+.vscode/
+
+# 生成的数据和图片
+# 通常不建议将大型数据文件和自动生成的图片提交到 Git 仓库
+datas/
+images/

@@ -4,7 +4,9 @@ import time
 import csv
 import random
 import re
+import os
 
+os.makedirs('datas',exist_ok=True)
 
 def clean_text(text):
     """清洗文本，去除不可见字符和常见乱码"""
@@ -221,7 +223,7 @@ def parse_car_list(html, city_name, page_num, headers, cookies):
     return car_list, is_last_page
 
 
-def save_to_csv(car_data, filename="河南二手车详细数据.csv"):
+def save_to_csv(car_data, filename=".河南二手车详细数据.csv"):
     """保存数据到CSV文件"""
     if not car_data:
         print("没有数据可保存")
